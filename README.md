@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Rama%20Dhaniansyah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+Rama Dhaniansyah
 
-<a href="https://linkedin.com/in/rama-dhaniansyah-523490248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dhaniansyahr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=dhaniansyahr&style=for-the-badge&color=0e75b6&label=VIEWS"/>
+<a href="https://linkedin.com/in/rama-dhaniansyah-523490248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="mailto:dhaniansyahr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=dhaniansyahr&style=flat-square&color=0e75b6&label=views"/>
 
-</div>
-
-<br/>
+</div> <br/>
 
 ```ts
 const rama = {
@@ -81,7 +77,5 @@ const rama = {
 ### 💬 Open to interesting problems
 
 *Especially ones involving distributed systems, AI integration, or making slow things fast.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=100&section=footer" width="100%"/>
 
 </div>
